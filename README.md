@@ -54,6 +54,8 @@ You can customize the application by modifying the `QRcode.js` and `App.css` fil
 - QR Code Generator API (https://api.qrserver.com)
 - Designed by Jaya Kaviya(https://www.linkedin.com/in/jayakaviya/)
 
+## Video Demonstration
+
 
 https://github.com/JayaKaviya/QRcode-Generator/assets/109425248/3d31b231-d482-40e2-9b22-4a8734e7223f
 
